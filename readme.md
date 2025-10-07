@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou Nycollas Ribeiro Lima, estudante de 18 anos apaixonado por desenvolvimento web. Domino tecnologias como HTML, CSS, JavaScript, React, Tailwind e Node.js, além de ter familiaridade com ferramentas de design como Figma e versionamento com Git e GitHub.<br><br>Busco constantemente evoluir como desenvolvedor, unindo boas práticas de código, design responsivo e experiência do usuário. Estou preparado para contribuir em projetos modernos, com foco em performance e usabilidade.</p>
+<p align="left">Sou Nycollas Ribeiro Lima, estudante de 18 anos apaixonado por desenvolvimento web. Conheço tecnologias como HTML, CSS, JavaScript, React, Tailwind e Node.js, além de ter familiaridade com ferramentas de design como Figma e versionamento com Git e GitHub.<br><br>Busco constantemente evoluir como desenvolvedor, unindo boas práticas de código, design responsivo e experiência do usuário. Estou preparado para contribuir em projetos modernos, com foco em performance e usabilidade.</p>
 
 ###
 
